@@ -19,5 +19,10 @@ public class jkkj {
     }
     
  
+        
+        if (true) {
+            
+        }
+    }
     
 }
