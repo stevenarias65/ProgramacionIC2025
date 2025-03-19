@@ -12,17 +12,7 @@ public class jkkj {
     public static void main(String[] args) {
         System.out.println("Hola como esta");
     
-       while (true) static {
-    
-}
-    
-    }
-    
  
-        
-        if (true) {
-            
-        }
     }
     
 }
